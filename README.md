@@ -1,2 +1,2 @@
 # bitconnectCoin-blockchain-bootstrap
-bitconnectCoin BlockChain Booststrap Chain-Data Files
+bitconnectCoin BlockChain Bootstrap Chain-Data Files
