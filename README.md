@@ -2,7 +2,7 @@
 
 Chain-data files for **The bitconnectCoin / BCC blockchain.** Using these files significantly reduces the time to sync the bitconnectCoin blockchain from scratch.
 
-[Discord](https://discordapp.com/invite/JxMNabw)
+[The bitconnectCoin Community Discord](https://discordapp.com/invite/JxMNabw)
 
 General Wallet Tutorials: [New](https://youtu.be/RTieeNXGNrE) | [Old](https://youtu.be/OFPNmYAQYdw)
 
