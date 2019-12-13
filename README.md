@@ -1,19 +1,17 @@
-# bitconnectCoin-blockchain-bootstrap
+# bitconnectCoin BlockChain BootStrap
 
-Chain-data files for **The bitconnectCoin / BCC blockchain.** Using these files significantly reduces the time to sync the bitconnectCoin blockchain from scratch.
+Chain-data files for the [BCC / BitConnect Coin / bitconnectCoin blockchain](https://chainz.cryptoid.info/bcc "BCC BlockChain"). Using these files significantly reduces the time to sync the [BCC / BitConnect Coin / bitconnectCoin blockchain](https://chainz.cryptoid.info/bcc "BCC BlockChain") from scratch.
 
-[The bitconnectCoin Community Discord](https://discordapp.com/invite/JxMNabw)
-
-General Wallet Tutorials: [New](https://youtu.be/RTieeNXGNrE) | [Old](https://youtu.be/OFPNmYAQYdw)
+General Wallet Tutorials: [New](https://youtu.be/RTieeNXGNrE "New Wallet Tutorial") | [Old](https://youtu.be/OFPNmYAQYdw "Old Wallet Tutorial")
 
 Wallets:
-[bitconnect GitHub](https://github.com/bitconnectcoin/bitconnectcoin/tree/master/setup) | [bitconnectCoin.info GitHub](https://github.com/bitconnectcoininfo/bitconnectcoin/releases)
+[bitconnect GitHub](https://github.com/bitconnectcoin/bitconnectcoin/tree/master/setup "bitconnect GitHub") | [bitconnectCoin.info GitHub](https://github.com/bitconnectcoininfo/bitconnectcoin/releases "bitconnectCoin.info GitHub")
 
 ---
 
 **If You Have Ran The bitconnectCoin Wallet On Your Device:**
 
-**1.** [Download the latest bootstrap files.](https://github.com/bitconnectCore/bitconnectCoin-blockchain-bootstrap/releases)
+**1.** [Download the latest bootstrap files.](https://github.com/bitconnectCore/bitconnectCoin-blockchain-bootstrap/releases "The Latest BCC Bootstrap Files Release")
 
 **2.** Find the downloaded bitconnect.zip file and double-click. This will unzip the file and show a folder named bitconnect.
 
@@ -41,7 +39,7 @@ Open Finder and in the program menu select Go > To Folder and enter the above pa
 
 **If You Have Not Ran The bitconnectCoin Wallet On Your Device:**
 
-**1.** [Download the latest bootstrap files.](https://github.com/bitconnectCore/bitconnectCoin-blockchain-bootstrap/releases)
+**1.** [Download the latest bootstrap files.](https://github.com/bitconnectCore/bitconnectCoin-blockchain-bootstrap/releases "The Latest BCC Bootstrap Files Release")
 
 **2.** Find the downloaded bitconnect.zip file and double-click. This will unzip the file and show a folder named bitconnect.
 
