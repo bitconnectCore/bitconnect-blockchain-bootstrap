@@ -30,7 +30,7 @@ Open Finder and in the program menu select Go > To Folder and enter the above pa
 **5.** Remove all files and folders **except** for wallet.dat, bitconnect.conf (may not have this file).
 **Do not** delete the wallet.dat file as it contains the private keys for your funds. **Deleting this file will result in loss of funds!**
 
-**6.** Inside the downloaded bitconnect folder there is **one** folder and **two** files. Move all **three** items into the bitconnectCoin wallet's data directory that you just removed files from.
+**6.** Inside the downloaded bitconnect folder there is **one** folder and **three** files. Move all **four** items into the bitconnectCoin wallet's data directory that you just removed files from.
 * **txleveldb**   - File Folder
 * **blk0001.dat** - DAT File
 * **peers.dat** - DAT File
