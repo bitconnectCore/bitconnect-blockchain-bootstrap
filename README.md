@@ -1,17 +1,33 @@
-# bitconnectCoin BlockChain BootStrap
+# bitconnect-blockchain-bootstrap
 
-**Chain-data files for the** [BCC / BitConnect Coin / bitconnectCoin blockchain](https://chainz.cryptoid.info/bcc "BCC BlockChain")**.** **Using these files significantly reduces the time to sync the** [BCC / BitConnect Coin / bitconnectCoin blockchain](https://chainz.cryptoid.info/bcc "BCC BlockChain") **from scratch.**
+**Chain-data files for the BCC / BitConnect Coin / bitconnectCoin blockchain. Using these files significantly reduces the time to sync from scratch.**
 
-**General Wallet Tutorials:** [New](https://youtu.be/RTieeNXGNrE "New Wallet Tutorial") | [Old](https://youtu.be/OFPNmYAQYdw "Old Wallet Tutorial")
+**General bitconnect GUI Full-Node Wallet Tutorial:** [YouTube](https://youtu.be/RTieeNXGNrE "YouTube")
 
-**BlockChain Node:**
+**bitconnect BlockChain GUI Full-Nodes:**
 [bitconnect GitHub](https://github.com/bitconnectcoin/bitconnectcoin/tree/master/setup "bitconnect GitHub")
-
-### GitHub Release Direct Download: [Here](https://github.com/bitconnectCore/bitconnectCoin-blockchain-bootstrap/releases/download/1.0/bitconnect.zip "Download")
 
 ---
 
-**If You Have Ran The bitconnectCoin Wallet On Your Device:**
+## Latest GitHub Release Direct Download: [Here](https://github.com/bitconnectCore/bitconnectCoin-blockchain-bootstrap/releases/download/1.0/bitconnect.zip "Download")
+
+**BlockChain Block Height -** 1,083,000 *(March 2020)*
+
+**bitconnect.Zip SHA256 CheckSum -** fa28f1c06e1ce1b4d66db10046806d4e4d71298e224e6a30412ca1b0ff183992
+
+**Contents**
+
+**1.** blk.0001.dat *(needed)*
+
+**2.** txleveldb folder *(needed)*
+
+**3.** bitconnect.conf *(for updating peers)*
+
+**4.** peers.dat *(optional)*
+
+---
+
+### If You Have Ran The bitconnectCoin Wallet On Your Device:
 
 **1.** [Download the latest bootstrap files.](https://github.com/bitconnectCore/bitconnectCoin-blockchain-bootstrap/releases "The Latest BCC Bootstrap Files Release")
 
@@ -40,7 +56,7 @@ Open Finder and in the program menu select Go > To Folder and enter the above pa
 
 ---
 
-**If You Have Not Ran The bitconnectCoin Wallet On Your Device:**
+#### If You Have Not Ran The bitconnectCoin Wallet On Your Device:
 
 **1.** [Download the latest bootstrap files.](https://github.com/bitconnectCore/bitconnectCoin-blockchain-bootstrap/releases "The Latest BCC Bootstrap Files Release")
 
@@ -57,27 +73,3 @@ Open Finder and in the program menu select Go > To Folder and enter the above pa
     *For Linux you must rename the bitconnect folder to .bitconnect*
 
 **4.** Run the wallet and syncing should begin at the bootstrap's last block.
-
----
-
-# **Latest Release:** [bitconnectCoin Block Height 1,083,000 (March 2020)](https://github.com/bitconnectCore/bitconnectCoin-blockchain-bootstrap/releases "Latest Release")
-
-**BCC | BitConnect Coin | bitconnectCoin -** https://chainz.cryptoid.info/bcc/
-
-**BlockChain Block Height -** 1,083,000 *(March 2020)*
-
-
-**Contents**
-
-**1.** blk.0001.dat *(needed)*
-
-**2.** txleveldb folder *(needed)*
-
-**3.** bitconnect.conf *(needed)*
-
-**4.** peers.dat *(optional)*
-
-
-**bitconnect.Zip SHA256 CheckSum -** fa28f1c06e1ce1b4d66db10046806d4e4d71298e224e6a30412ca1b0ff183992
-
-**CheckSum Tool -** https://emn178.github.io/online-tools/sha256_checksum.html
