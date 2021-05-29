@@ -1,10 +1,12 @@
 # bitconnect-blockchain-bootstrap
 
-**Chain-data files for the BCC / BitConnect Coin / bitconnectCoin blockchain. Using these files significantly reduces the time to sync from scratch.**
+**bitconnect BlockChain BoostStrap ChainData Files**
 
-**General bitconnect GUI Full-Node Wallet Tutorial:** [YouTube](https://youtu.be/RTieeNXGNrE "YouTube")
+Chain-data files for the BCC / BitConnect Coin / bitconnectCoin blockchain. Using these files significantly reduces the time to sync from scratch.
 
-**bitconnect BlockChain GUI Full-Nodes:**
+General bitconnect GUI Full-Node Wallet Tutorial: [YouTube](https://youtu.be/RTieeNXGNrE "YouTube")
+
+bitconnect BlockChain GUI Full-Nodes:
 [bitconnect GitHub](https://github.com/bitconnectcoin/bitconnectcoin/tree/master/setup "bitconnect GitHub")
 
 ---
